@@ -23,4 +23,4 @@ Trade Sniper: (VERY IMPORTANT TO FOLLOW STEP 1)
 --this will work with multiple accounts running
 --PLEASE ALLOW 5-10 SECONDS ONCE SAVING CONFIGURATION BEFORE STARTING SNIPER TO ALLOW THE SAVE TO COMPLETE
 
-Made by Sim99Scripts
+Made by Sim99Scripts x SyncHub
